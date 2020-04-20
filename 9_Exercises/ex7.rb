@@ -1,0 +1,1 @@
+# An array is an ordered list of objects. A hash is a generally unordered (but later versions of ruby can be ordered) pairs of keys of values like a dictionary.
